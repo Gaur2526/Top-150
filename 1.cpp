@@ -1,4 +1,5 @@
 Problem statement Break down:
+## Link to problem
 [Click me](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
 1. we have two arrays nums1 and nums2 which are sorted in ascending order 
 2. Two integers m and n where m is the size of nums1 and n is the size of nums2
