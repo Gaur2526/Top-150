@@ -1,8 +1,8 @@
 Problem statement Break down:
-[(https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)]
+[Click me](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
 1. we have two arrays nums1 and nums2 which are sorted in ascending order 
 2. Two integers m and n where m is the size of nums1 and n is the size of nums2
-3. The actual size of nums1 is m+n where n elements are 0's we have provided extra size to accomodate final sorted array in nums1
+3. The actual size of nums1 is m+n where n elements are zeroes we have provided extra size to accomodate final sorted array in nums1
 4. We have to merge both the arrays in sorted manner
 
 Solution : 
