@@ -60,6 +60,8 @@ using namespace std;
 
 int majority(vector<int> nums){
     
+    // Boyer-Moore Voting Algorithm
+    
     int test_element = nums[0];
     int cnt = 1;
     
