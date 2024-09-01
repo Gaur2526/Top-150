@@ -25,7 +25,7 @@ public:
             i++;
         }
 
-        // inserting those intervals which are overllaping
+        // inserting those intervals which are overlapping
 
         while(i < n && intervals[i][0] <= newInterval[1]){
 
